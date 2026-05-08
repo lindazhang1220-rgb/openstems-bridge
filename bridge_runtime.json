@@ -1,8 +1,8 @@
-﻿{
+{
     "bridgePublicBase":  "https://jones-importantly-rent-reel.trycloudflare.com",
     "bridgeApi":  "https://jones-importantly-rent-reel.trycloudflare.com/separate",
     "bridgeHealth":  "https://jones-importantly-rent-reel.trycloudflare.com/health",
     "tunnelProvider":  "cloudflared",
-    "updatedAtUtc":  "2026-05-08T07:51:49Z",
-    "updatedAtBeijing":  "2026-05-08 15:51:49"
+    "updatedAtUtc":  "2026-05-08T07:53:45Z",
+    "updatedAtBeijing":  "2026-05-08 15:53:45"
 }
